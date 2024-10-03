@@ -1,5 +1,6 @@
 # coral_zymo_co-extractions
-A modified extraction protocol to isolate both RNA and DNA from stony corals
+A modified extraction protocol to isolate both RNA and DNA from stony corals, *use at your own risk to your samples*
+This was created through months/years of frustration to obtain good DNA *and* RNA, balancing 
 
 ## DNA/RNA Co-Extraction
 Note: This protocol is based on coral biopsies collected and preserved in Zymo DNA/RNA Shield. Modifications to the manufacturer’s protocol are highlighted below (Zymobiomics DNA/RNA Mini Prep Kit).
