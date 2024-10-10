@@ -1,5 +1,6 @@
-# coral_zymo_co-extractions
-<p style="text-align:center;">A modified extraction protocol to isolate both RNA and DNA from stony corals, *use at your own risk to your samples*</p>
+# <p align="center">coral_zymo_co-extractions</p>
+
+<p align="center">A modified extraction protocol to isolate both RNA and DNA from stony corals, use at your own risk to your samples</p>
 
 ![IMG_3940](https://github.com/user-attachments/assets/15b67347-c6f0-4df1-b0fb-7c3234185cec)
 
